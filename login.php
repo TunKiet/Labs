@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Login</title>
-    <link rel="stylesheet" href="public/css/styles_login.css" />
-  </head>
-  <body>
+<?php 
+required('index.php');
+?>
     <div class="container">
       <h2>ĐĂNG NHẬP</h2>
       <form id="loginForm">
